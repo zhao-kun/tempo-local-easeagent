@@ -26,6 +26,6 @@ generated/
 
 tempo-data/
 
-easeagent.jar
+easeagent*.jar
+easeagent/*.jar
 docker-compose.yml
-easeagent/
